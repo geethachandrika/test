@@ -7,6 +7,7 @@ class  Employee{
     private int salary;
     private int id;
     private int t;
+    private int r;
  
     public Employee(int id, String name, int salary){
     	this.id = id;
